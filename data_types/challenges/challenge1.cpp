@@ -10,8 +10,6 @@ int main(){
     float teaQuantity;
     float pricePerKilogram;
 
-
-
     cout << "Enter Tea Name:";
 
     cout << "Enter Tea Name:";
